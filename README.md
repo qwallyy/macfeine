@@ -11,11 +11,10 @@ It keeps your Mac awake for a time you choose, or forever.
 - See current state directly in the menu bar
 
 ## From DMG
-1. Install `MacFeine-Installer.zip`
-2. Unarchive `MacFeine.zip`
-3. Open `MacFeine-Installer.dmg`
-4. Drag `MacFeine.app` to `Applications`
-5. Open `MacFeine` from Applications
+1. Install `MacFeine-Installer.dmg`
+2. Open `MacFeine-Installer.dmg`
+3. Drag `MacFeine.app` to `Applications`
+4. Open `MacFeine` from Applications
 
 ## How To Use
 
